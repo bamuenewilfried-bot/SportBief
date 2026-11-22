@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SportActu</string>
+    <string name="nav_news">À la Une</string>
+    <string name="nav_scores">Direct &amp; Scores</string>
+    <string name="nav_mercato">Mercato</string>
+    <string name="nav_rankings">Classements</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="search_placeholder">Rechercher une actu, équipe, joueur...</string>
+    <string name="live_badge">EN DIRECT</string>
+    <string name="breaking_badge">FLASH INFO</string>
+    <string name="read_time_format">%d min de lecture</string>
+    <string name="empty_favorites">Aucun favori enregistré. Ajoutez des articles ou équipes !</string>
+</resources>

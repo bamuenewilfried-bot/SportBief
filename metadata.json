@@ -1,0 +1,6 @@
+{
+  "name": "SportActu",
+  "description": "Toute l'actualité sportive en direct : football, basketball, tennis, F1, mercato, scores et résultats en direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
